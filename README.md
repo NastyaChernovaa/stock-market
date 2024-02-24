@@ -1,5 +1,5 @@
 # stock-market
-Linear Regression: stock market analysis <br>
+EDA + Linear Regression: stock market analysis <br>
 
 Task: From imported files with information about the dynamics of stock prices on the stock market, it is necessary to collect a dataframe, carry out preprocessing, add metrics and conduct a research analysis of prices over the last 3 years. In the study, use moving averages, exponential moving averages and the RSI indicator.
 
